@@ -1,0 +1,23 @@
+.imgSec {
+    width: auto;
+    height: 900px;
+}
+
+#monkey1 {
+    width:1500px;
+    height:auto;
+    padding: 20px;
+
+}
+
+.workCited{
+    padding: 5%;
+    height: 500px;
+    width: auto;
+    background-color: black;
+}
+.pWorkCited{
+    text-align: center;
+    font-size: 26px;
+    color: white;
+}
